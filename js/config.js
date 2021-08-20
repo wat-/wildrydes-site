@@ -8,4 +8,3 @@ window._config = {
         invokeUrl: 'https://7tliuus7rc.execute-api.ap-northeast-1.amazonaws.com/prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
-# ahduaskuihdiuahuio
